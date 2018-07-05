@@ -13,11 +13,11 @@ The example of ${GroupList.csv} is in the root of this project.
 
 **Columes of the table is in following order:**  
 Name,Grade,Department,StudentID,Gender,Day1,Day2,Day3  
-
-##Author: 
+  
+## Author: 
 Sun, ChengWei (r05224123 {at} ntu.edu.tw)
 
-##License: 
+## License: 
 [Attribution-ShareAlike 4.0 International (CC BY-SA 4.0) ](https://creativecommons.org/licenses/by-sa/4.0/)  
 ![CC 4.0 Attribution-ShareAlike image](https://licensebuttons.net/l/by-sa/4.0/88x31.png)   
   
